@@ -25,5 +25,3 @@ summary: 东京之王是一个2至6名玩家进行游玩的游戏，玩家扮演
 </div>
 
 ## 游戏说明书
-
-{% pdf /medias/pdf/KOT_RULES.pdf %}
