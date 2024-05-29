@@ -114,6 +114,6 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/cbgc001/cbgc.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: https://github.com/cbgc001/cbgc001.github.io.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
