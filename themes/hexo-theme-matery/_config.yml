@@ -13,9 +13,9 @@ menu:
   About:
     url: /about
     icon: fas fa-info-circle
-  Contact:
-    url: /contact
-    icon: fas fa-comments
+  #Contact:
+  #  url: /contact
+  #  icon: fas fa-comments
   # 二级菜单写法如下
   #Medias:
   #  icon: fas fa-list
